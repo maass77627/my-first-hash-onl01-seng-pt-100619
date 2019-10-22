@@ -1,8 +1,7 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-  
-end
+  your_hash = {"dog" => "spot", "cat" => "fluffy"}
+  end
+  your_hash
 
 
 def shipping_manifest
